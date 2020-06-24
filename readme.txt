@@ -25,6 +25,7 @@ License : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.ja
 2020/6/22 v1.04 キーワードリンク色との区別向上のため文字色を0,0,0に
 2020/6/23 v1.05 吹き出しの＞デザイン変更 s4,5追加(\0水面用 \b[4]) サムネイル追加
 2020/6/24 v1.06 ライセンス NYSL->CC0 (どちらにしろ煮るなり焼くなり好きにしてほしいことには違いない)
+2020/6/24 v1.07 Address Bar追加
 
 ■連絡先・配布サイトとか
 http://ms.shillest.net/
