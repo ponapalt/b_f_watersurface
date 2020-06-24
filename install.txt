@@ -1,0 +1,4 @@
+charset,Shift_JIS
+type,balloon
+name,/balloon/for/watersurface
+directory,b_f_watersurface
