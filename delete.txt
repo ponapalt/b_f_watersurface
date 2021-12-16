@@ -1,0 +1,9 @@
+charset,UTF-8
+
+balloonk3s.txt
+balloonk2s.txt
+balloonk1s.txt
+balloonk0s.txt
+marker_k.png
+arrow_k1.png
+arrow_k0.png
