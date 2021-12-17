@@ -24,6 +24,10 @@ font.color.r,0
 font.color.g,0
 font.color.b,0
 
+disable.font.color.r,150
+disable.font.color.g,150
+disable.font.color.b,200
+
 anchor.font.color.r,0
 anchor.font.color.g,0
 anchor.font.color.b,221
