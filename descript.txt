@@ -48,6 +48,8 @@ arrow0.x,-21
 arrow0.y,15
 arrow1.x,-21
 arrow1.y,-25
+clickwaitmarker.x,-21
+clickwaitmarker.y,-25
 
 onlinemarker.x,47
 onlinemarker.y,-13
