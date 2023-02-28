@@ -22,6 +22,7 @@ License : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.ja
 
 ■更新履歴
 2023/02/28 v1.00  First Release
+2023/02/28 v1.01  オンライン表示を縮小 入力ボックスのリファイン
 
 ■連絡先・配布サイトとか
 http://ms.shillest.net/
