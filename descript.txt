@@ -40,9 +40,9 @@ cursor.brush.color.b,127
 cursor.pen.color.r,0
 cursor.pen.color.g,0
 cursor.pen.color.b,50
-cursor.font.color.r,224
-cursor.font.color.g,224
-cursor.font.color.b,255
+cursor.font.color.r,217
+cursor.font.color.g,233
+cursor.font.color.b,250
 
 arrow0.x,-21
 arrow0.y,15
@@ -61,15 +61,15 @@ sstpmessage.x,140
 sstpmessage.y,-12
 sstpmessage.font.name,ＭＳ ゴシック
 sstpmessage.font.height,10
-sstpmessage.font.color.r,192
-sstpmessage.font.color.g,192
-sstpmessage.font.color.b,255
+sstpmessage.font.color.r,217
+sstpmessage.font.color.g,233
+sstpmessage.font.color.b,250
 
 number.font.name,ＭＳ ゴシック
 number.font.height,10
-number.font.color.r,192
-number.font.color.g,192
-number.font.color.b,255
+number.font.color.r,217
+number.font.color.g,233
+number.font.color.b,250
 number.xr,-11
 number.y,-12
 
