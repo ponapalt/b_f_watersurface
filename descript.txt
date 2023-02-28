@@ -1,12 +1,12 @@
 charset,UTF-8
 
 type,balloon
-name,/balloon/for/watersurface
-id,b_f_watersurface
+name,/balloon/for/watersurface/v2
+id,b_f_watersurface_v2
 craftman,SSP BUGTRAQ
 craftmanw,ばぐとら研究所/整備班
 craftmanurl,http://ms.shillest.net/
-homeurl,http://ms.shillest.net/balloon/b_f_watersurface/
+homeurl,http://ms.shillest.net/balloon/b_f_watersurface_v2/
 
 origin.x,17
 origin.y,19
