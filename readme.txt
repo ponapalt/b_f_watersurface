@@ -2,7 +2,7 @@
 	バルーン「/balloon/for/watersurface/v2」
 
 	作った人：ぽな（ばぐとら研究所/整備班）
-	日付：2023年3月ぐらい
+	日付：2023年2月末ぐらい
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
@@ -21,7 +21,7 @@ SSP 2.5
 License : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.ja
 
 ■更新履歴
-2023/03/01 v1.00  First Release
+2023/02/28 v1.00  First Release
 
 ■連絡先・配布サイトとか
 http://ms.shillest.net/
