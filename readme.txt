@@ -23,6 +23,7 @@ License : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.ja
 ■更新履歴
 2023/02/28 v1.00  First Release
 2023/02/28 v1.01  オンライン表示を縮小 入力ボックスのリファイン
+2023/03/01 v1.02  大バルーンの黄色表示を撤去 お気に入りバルーンの入力ボックスとのデザイン統一 入力ボックスの再調整
 
 ■連絡先・配布サイトとか
 http://ms.shillest.net/
