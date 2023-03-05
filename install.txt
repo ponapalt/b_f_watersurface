@@ -1,4 +1,4 @@
 charset,Shift_JIS
 type,balloon
-name,/balloon/for/watersurface
-directory,b_f_watersurface
+name,/balloon/for/watersurface/v2
+directory,b_f_watersurface_v2
