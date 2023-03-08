@@ -26,6 +26,7 @@ License : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.ja
 2023/03/01 v2.02  大バルーンの黄色表示を撤去 お気に入りバルーンの入力ボックスとのデザイン統一 入力ボックスの再調整
 2023/03/01 v2.03  タイトル表示を改修してほぼ専用化
 2023/03/05 v2.04  install.txtを変え忘れていた問題を修正
+2023/03/08 v2.05  オンライン表示を見やすくした
 
 ■連絡先・配布サイトとか
 http://ms.shillest.net/
