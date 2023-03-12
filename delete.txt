@@ -7,6 +7,3 @@ balloonk0s.txt
 marker_k.png
 arrow_k1.png
 arrow_k0.png
-online8.png
-online9.png
-online10.png

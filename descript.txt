@@ -51,11 +51,11 @@ arrow1.y,-25
 clickwaitmarker.x,-21
 clickwaitmarker.y,-25
 
-onlinemarker.x,83
-onlinemarker.y,-13
+onlinemarker.x,118
+onlinemarker.y,36
 
-sstpmarker.x,95
-sstpmarker.y,-11
+sstpmarker.x,83
+sstpmarker.y,-13
 
 sstpmessage.x,115
 sstpmessage.y,-12
